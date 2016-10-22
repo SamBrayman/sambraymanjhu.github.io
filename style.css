@@ -5,12 +5,12 @@
 
 #content {
     float: right;
-    width: 500px;
+    width: 560px;
 }
 
 #sidebar {
     float: left;
-    width: 460px;
+    width: 400px;
 }
 
 #footer {
@@ -39,7 +39,7 @@ h1 {
     box-shadow: 0 0 8px rgba(0,0,0,.8);
     -webkit-box-shadow: 0 0 8px rgba(0,0,0,.8);
     -moz-box-shadow: 0 0 8px rgba(0,0,0,.8);
-    margin-left: 80px;
+    margin-left: auto;
     margin-right: auto;
 }
 
@@ -48,16 +48,16 @@ h1 {
 }
 
 .logo1 {
-    height: 60px;
+    height: 55px;
     display: inline-block;
-    margin: 5px 3px;
+    margin: 0px 3px;
     padding: 5px;
 }
 
 .logo {
     height: 40px;
     display: inline-block;
-    margin: 5px 3px;
+    margin: 7px 3px;
     padding: 5px;
 }
 
